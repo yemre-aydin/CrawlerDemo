@@ -1,0 +1,15 @@
+C:\Users\YunuS EmrE\Downloads\FormCrawl\FormCrawl\bin\Debug\net5.0\FormCrawl.exe
+C:\Users\YunuS EmrE\Downloads\FormCrawl\FormCrawl\bin\Debug\net5.0\FormCrawl.deps.json
+C:\Users\YunuS EmrE\Downloads\FormCrawl\FormCrawl\bin\Debug\net5.0\FormCrawl.runtimeconfig.json
+C:\Users\YunuS EmrE\Downloads\FormCrawl\FormCrawl\bin\Debug\net5.0\FormCrawl.runtimeconfig.dev.json
+C:\Users\YunuS EmrE\Downloads\FormCrawl\FormCrawl\bin\Debug\net5.0\FormCrawl.dll
+C:\Users\YunuS EmrE\Downloads\FormCrawl\FormCrawl\bin\Debug\net5.0\ref\FormCrawl.dll
+C:\Users\YunuS EmrE\Downloads\FormCrawl\FormCrawl\bin\Debug\net5.0\FormCrawl.pdb
+C:\Users\YunuS EmrE\Downloads\FormCrawl\FormCrawl\obj\Debug\net5.0\FormCrawl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YunuS EmrE\Downloads\FormCrawl\FormCrawl\obj\Debug\net5.0\FormCrawl.AssemblyInfoInputs.cache
+C:\Users\YunuS EmrE\Downloads\FormCrawl\FormCrawl\obj\Debug\net5.0\FormCrawl.AssemblyInfo.cs
+C:\Users\YunuS EmrE\Downloads\FormCrawl\FormCrawl\obj\Debug\net5.0\FormCrawl.csproj.CoreCompileInputs.cache
+C:\Users\YunuS EmrE\Downloads\FormCrawl\FormCrawl\obj\Debug\net5.0\FormCrawl.dll
+C:\Users\YunuS EmrE\Downloads\FormCrawl\FormCrawl\obj\Debug\net5.0\ref\FormCrawl.dll
+C:\Users\YunuS EmrE\Downloads\FormCrawl\FormCrawl\obj\Debug\net5.0\FormCrawl.pdb
+C:\Users\YunuS EmrE\Downloads\FormCrawl\FormCrawl\obj\Debug\net5.0\FormCrawl.genruntimeconfig.cache
